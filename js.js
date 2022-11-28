@@ -33,14 +33,14 @@ choice = playerChoice();
 
 
 
-// do {
-//     playerChoice()
-// } while (choice != 0 || 1 || 2);
+do {
+    playerChoice()
+} while (choice != 0 || 1 || 2);
 
-//  {
-//     console.log("Please put in only rock, paper, or scissors");
-//     playerChoice();
-// }
+ {
+    console.log("Please put in only rock, paper, or scissors");
+    playerChoice();
+}
 
 
 
