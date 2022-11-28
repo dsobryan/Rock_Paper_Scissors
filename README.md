@@ -1,2 +1,2 @@
-# Rock_Paper_Scissors
-Javascript rock paper scissors game
+# rock-paper-scissors
+Play a game of rock, paper, scissors
